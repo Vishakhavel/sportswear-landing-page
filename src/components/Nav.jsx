@@ -4,7 +4,7 @@ import { hamburger } from '../assets/icons';
 import { navLinks } from '../constants';
 const Nav = () => {
   return (
-    <header className='padding-x py-8 absoulte z-10 w-full'>
+    <header className='padding-x py-8 absolute z-10 w-full'>
       {/* using semantic tags for better accessibility */}
       <nav className='flex justify-between items-start max-container'>
         <a href='/'>

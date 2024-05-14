@@ -14,6 +14,7 @@
 
 @layer components {
   .max-container {
+    /* if content goes beyong it, the content will collapse */
     max-width: 1440px;
     margin: 0 auto;
   }
